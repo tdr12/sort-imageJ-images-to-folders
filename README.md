@@ -1,7 +1,7 @@
 # Script R pour répartir des images générées par DigiCam Control dans des sous-repertoires
 
 ## Contexte et objectif
-Nous disposons d'une banque d'images prises à partir de ImageJ et nommées selon la nomenclature suivante: **DSC_0494_D5200_Black_Back_2025-04-25-02-14-27.jpg** où: 
+Nous disposons d'une banque d'images prises à partir de DigiCam Control et nommées selon la nomenclature suivante: **DSC_0494_D5200_Black_Back_2025-04-25-02-14-27.jpg** où: 
 - **DSC_0494_D5200_Black_Back** est l'ID de l'image,
 - **2025-04-25** la date de prise de vue en **année/mois/jour** et
 - **02-14-27** le moment de prise de vue en **heure/minutes/secondes**.
