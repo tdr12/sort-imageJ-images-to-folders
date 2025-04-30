@@ -3,7 +3,7 @@ library(lubridate)
 library(dplyr)
 
 # Chemin du dossier source là où toutes les images sont stockées
-dossier_source <- "C:/Users/delan/OneDrive/Desktop/Hubert/Photos_test_MLP"
+dossier_source <- "chemin/vers/vos/images/"
 
 # Création des 8 dossiers de sortie
 dossiers_sortie <- file.path(dossier_source, sprintf("Position_%02d", 1:8))
