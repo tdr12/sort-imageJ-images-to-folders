@@ -23,7 +23,7 @@ L'objectif de créer automatiquement 8 répertoires (dossiers) différents de so
 - Compatible avec les séries chevauchant minuit
 ----
 ## Remerciement
-Nous remercions **(Hubert Ekpinsou)[hubert.ekpinsou8@etu.univ-lorraine.fr]** étudiant en *Biologie des interactions plante environnement*, 
+Nous remercions **[Hubert Ekpinsou](hubert.ekpinsou8@etu.univ-lorraine.fr)** étudiant en *Biologie des interactions plante environnement*, 
  à *l'Université de Lorraine* pour avoir fourni l'echantillon de données ayant servi à tester le code.
 
 ----
