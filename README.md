@@ -1,4 +1,4 @@
-# Script R pour répartir des images générées par ImageJ dans des sous-repertoires
+# Script R pour répartir des images générées par DigiCam Control dans des sous-repertoires
 
 ## Contexte et objectif
 Nous disposons d'une banque d'images prises à partir de ImageJ et nommées selon la nomenclature suivante: **DSC_0494_D5200_Black_Back_2025-04-25-02-14-27.jpg** où: 
@@ -6,7 +6,7 @@ Nous disposons d'une banque d'images prises à partir de ImageJ et nommées selo
 - **2025-04-25** la date de prise de vue en **année/mois/jour** et
 - **02-14-27** le moment de prise de vue en **heure/minutes/secondes**.
 
-A chaque une heure, une série de 8 images a été prise, les minutes et secondes pouvant varier. Certaines séries pouvait pouvaient également chevaucher minuit puisque les prises de vues ont été éffectuées sur plusieurs jours .
+A chaque une heure, une série de 8 images a été prise, les minutes et secondes pouvant varier. Certaines séries pouvaient également chevaucher minuit puisque les prises de vues ont été éffectuées sur plusieurs jours .
 
 L'objectif de créer automatiquement 8 répertoires (dossiers) différents de sorte à y répartir les images de chaque série contenu dans le répertoire initial à partir de leur nom. La particularité est que les premières images de chaque série doivent êtres stockées dans un même dossier, les deuxièmes images de chaque série dans un même dossier et ainsi de suite j'usqu'à répartir toutes les 8 images de chaque série.
 
