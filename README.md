@@ -1,4 +1,4 @@
-# Script R pour répartir des images générées par ImageJ 
+# Script R pour répartir des images générées par ImageJ dans des sous-repertoires
 
 ## Contexte et objectif
 Nous disposons d'une banque d'images prises à partir de ImageJ et nommées selon la nomenclature suivante: **DSC_0494_D5200_Black_Back_2025-04-25-02-14-27.jpg** où: 
